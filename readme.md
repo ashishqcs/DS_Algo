@@ -1,10 +1,13 @@
+## String
+* [Two sum](Array/TwoSum.java)
+## String
+* [Ransome Note](String/RansomNote.java)
+
 ## Linked List
-### `Easy`
-1. [Palindrome Linked List](linkedlist/PalindromeLinkedList.java)
+
+* [Palindrome Linked List](linkedlist/PalindromeLinkedList.java)
 
 ## Miscellaneous
-### `Easy`
-1. [RomanToInteger](miscellaneous/RomanToInteger.java)
 
-### `Medium`
-1. [NumberToWords](miscellaneous/NumberToWords.java)
+* [Roman To Integer](miscellaneous/RomanToInteger.java)
+* [Number To Words](miscellaneous/NumberToWords.java)
