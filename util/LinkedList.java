@@ -1,10 +1,10 @@
-package linkedlist;
+package util;
 
-import java.util.List;
+import model.Node;
 
 public class LinkedList {
 
-    public static Node singlyLinkedList (List<String> dataList){
+    public static Node singlyLinkedList (String... dataList){
         Node head = null;
         Node prev = null;
         for (String data : dataList) {

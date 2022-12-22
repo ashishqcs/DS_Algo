@@ -1,8 +1,8 @@
 package linkedlist;
 
-import java.util.List;
+import model.Node;
 
-import static linkedlist.LinkedList.singlyLinkedList;
+import static util.LinkedList.singlyLinkedList;
 
 /*
  * Problem Statement <a href="https://leetcode.com/problems/palindrome-linked-list/">here</href>
@@ -12,7 +12,7 @@ import static linkedlist.LinkedList.singlyLinkedList;
 public class PalindromeLinkedList {
 
     public static void main(String[] args) {
-        Node head = singlyLinkedList(List.of("1", "2", "2", "1"));
+        Node head = singlyLinkedList("1", "2", "2", "1");
         System.out.println(isPalindrome(head));
     }
 

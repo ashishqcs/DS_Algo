@@ -1,4 +1,4 @@
-package linkedlist;
+package model;
 
 public class Node {
     public Node prev;

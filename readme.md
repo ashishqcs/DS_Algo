@@ -6,6 +6,7 @@
 ## Linked List
 
 * [Palindrome Linked List](linkedlist/PalindromeLinkedList.java)
+* [Middle of Linked List](linkedlist/MiddleNode.java)
 
 ## Miscellaneous
 
