@@ -1,5 +1,6 @@
-## String
+## Array
 * [Two sum](Array/TwoSum.java)
+* [Circular Queue Implementation](Array/CircularQueue.java)
 ## String
 * [Ransome Note](String/RansomNote.java)
 
