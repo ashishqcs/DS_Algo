@@ -3,6 +3,7 @@
 * [Circular Queue Implementation](Array/CircularQueue.java)
 ## String
 * [Ransome Note](String/RansomNote.java)
+* [Premutations of a String](String/Permutations.java)
 
 ## Linked List
 
