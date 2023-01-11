@@ -12,6 +12,7 @@
 
 ## Tree
 * [Max Heap](tree/MaxHeap.java)
+* [Trie using HashTable / Map](tree/trie/TrieUsingMap.java)
 
 ## Miscellaneous
 

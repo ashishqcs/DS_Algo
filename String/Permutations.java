@@ -1,5 +1,9 @@
 package String;
 
+/*
+* Print all permutations of a string.
+* Time complexity = O(n!)
+*/
 public class Permutations {
 
     static void perm(StringBuilder str, StringBuilder str2, int orginalLength){
