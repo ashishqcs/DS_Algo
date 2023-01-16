@@ -16,7 +16,7 @@ public class TreeMaxMinDepth {
     }
 
     /*
-        Less efficient.
+        Less efficient using DFS.
      */
     public int minDepth(TreeNode root) {
         if(root==null)

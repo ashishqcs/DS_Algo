@@ -13,6 +13,9 @@
 ## Tree
 * [Max Heap](tree/MaxHeap.java)
 * [Trie using HashTable / Map](tree/trie/TrieUsingMap.java)
+* [Min/Max depth of a tree](tree/TreeMaxMinDepth.java)
+* [Invert binary tree](tree/InvertBinaryTree.java)
+* [Path Sum](tree/PathSum.java)
 
 ## Miscellaneous
 
