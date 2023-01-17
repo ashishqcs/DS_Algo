@@ -1,6 +1,6 @@
 ## Array
 * [Two sum](Array/TwoSum.java)
-* [Circular Queue Implementation](Array/CircularQueue.java)
+* [Circular Queue](Array/CircularQueue.java)
 ## String
 * [Ransome Note](String/RansomNote.java)
 * [Premutations of a String](String/Permutations.java)
@@ -16,6 +16,7 @@
 * [Min/Max depth of a tree](tree/TreeMaxMinDepth.java)
 * [Invert binary tree](tree/InvertBinaryTree.java)
 * [Path Sum](tree/PathSum.java)
+* [Kth Largest](tree/heap/KthLargest.java)
 
 ## Miscellaneous
 
