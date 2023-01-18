@@ -14,7 +14,7 @@ public class KthLargest {
 
     public KthLargest(int k, int[] nums) {
         this.k = k;
-        priorityQueue = new PriorityQueue<>();
+        priorityQueue = new PriorityQueue<>(k + 1);
         Arrays.stream(nums).forEach(num -> {
             priorityQueue.add(num);
 

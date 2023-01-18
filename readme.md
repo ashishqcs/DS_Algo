@@ -17,6 +17,7 @@
 * [Invert binary tree](tree/InvertBinaryTree.java)
 * [Path Sum](tree/PathSum.java)
 * [Kth Largest](tree/heap/KthLargest.java)
+* [Sum of Left Leaf](tree/SumLeftLeaf.java)
 
 ## Miscellaneous
 
