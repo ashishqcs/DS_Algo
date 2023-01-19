@@ -19,6 +19,7 @@
 * [Kth Largest](tree/heap/KthLargest.java)
 * [Sum of Left Leaf](tree/SumLeftLeaf.java)
 * [Symmetric Tree or Mirror Image](tree/SymmetricTree.java)
+* [Sub tree of another tree](tree/SubTree.java)
 
 ## Miscellaneous
 
