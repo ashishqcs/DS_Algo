@@ -1,6 +1,7 @@
 ## Array
 * [Two sum](Array/TwoSum.java)
 * [Circular Queue](Array/CircularQueue.java)
+
 ## String
 * [Ransome Note](String/RansomNote.java)
 * [Premutations of a String](String/Permutations.java)
@@ -25,3 +26,8 @@
 
 * [Roman To Integer](miscellaneous/RomanToInteger.java)
 * [Number To Words](miscellaneous/NumberToWords.java)
+* [Data Pipeline - analyze-user-website-visit-pattern](miscellaneous/DataPipeline.java)
+
+## Sort
+* [Merge Sort](sort/MergeSort.java)
+* [Quick Sort](sort/QuickSort.java)

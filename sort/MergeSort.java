@@ -14,10 +14,9 @@ public class MergeSort {
     }
 
     void merge(int[] array, int start, int end){
-        if (end < start)
-        {
+        if (start >= end)
             return;
-        }
+
         int mid = (start + end) / 2;
         merge(array, start, mid);
         merge(array, mid+1, end);
@@ -26,5 +25,36 @@ public class MergeSort {
 
     void sort(int[] array, int start, int mid, int end) {
 
+        int[] arr1 = new int[mid - start + 1];
+        int[] arr2 = new int[end - mid];
+
+        int i = 0;
+        int j = 0;
+
+        for (int x=start; x<=mid; x++){
+            arr1[i++] = array[x];
+        }
+        for (int x=mid+1; x<=end; x++){
+            arr2[j++] = array[x];
+        }
+
+        i = 0; j = 0;
+
+
+        while (i < arr1.length && j < arr2.length){
+            if (arr1[i] < arr2[j]){
+                array[start++] = arr1[i++];
+            }
+            else if (arr2[j] <= arr1[i]){
+                array[start++] = arr2[j++];
+            }
+        }
+
+        while(i < arr1.length){
+            array[start++] = arr1[i++];
+        }
+        while(j < arr2.length){
+            array[start++] = arr2[j++];
+        }
     }
 }
