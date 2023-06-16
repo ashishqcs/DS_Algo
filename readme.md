@@ -1,6 +1,7 @@
 ## Array
 * [Two sum](Array/TwoSum.java)
 * [Circular Queue](Array/CircularQueue.java)
+* [Majority Element using Boyer Moore Majority Algo](Array/MajorityElement.java)
 
 ## String
 * [Ransome Note](String/RansomNote.java)
